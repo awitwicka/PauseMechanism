@@ -1,4 +1,4 @@
-#Task Info:
+# Task Info:
 You should create a generic mechanism that takes care of objects productivity during a pause in the game. 
 While paused the objects should suspend their activity, and after unpause the objects should compensate the production, 
 which would take place during the pause.
